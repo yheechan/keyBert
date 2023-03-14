@@ -1,0 +1,2 @@
+	subject_title = config.research_subject
+	title = subject_title + '_' + config.research_num
